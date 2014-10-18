@@ -4,3 +4,12 @@
 .chart {
   height: 500px;
 }
+
+.mycircs{
+   fill:lime;
+   stroke:red;
+   stroke-width:10;
+   pointer-events:all;
+   fill-opacity:0.5;
+
+}
